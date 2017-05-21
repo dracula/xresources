@@ -6,7 +6,7 @@
 
 ## Install
 
-Copy or link as a `.Xresources` file in your home directory.
+All instructions can be found at [draculatheme.com/xresources](https://draculatheme.com/xresources).
 
 ## Team
 
