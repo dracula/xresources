@@ -1,6 +1,6 @@
-# Dracula for [Xresources](http://xresources.github.io)
+# Dracula for [Xresources](https://wiki.archlinux.org/index.php/x_resources)
 
-> A dark theme for [Xresources](http://xresources.github.io) (xterm, (u)rxvt, and other X11 applications).
+> A dark theme for [Xresources](https://wiki.archlinux.org/index.php/x_resources) (xterm, (u)rxvt, and other X11 applications).
 
 ![Screenshot](https://draculatheme.com/assets/img/screenshots/xresources.png)
 
