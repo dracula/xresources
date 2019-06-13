@@ -1,6 +1,10 @@
 ! Dracula Xresources palette
 *.foreground: #F8F8F2
+#ifdef background_opacity
+*.background: [background_opacity]#282A36
+#else
 *.background: #282A36
+#endif
 *.color0:     #000000
 *.color8:     #4D4D4D
 *.color1:     #FF5555
