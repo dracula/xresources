@@ -2,7 +2,7 @@
 
 > A dark theme for [Xresources](https://wiki.archlinux.org/index.php/x_resources) (xterm, (u)rxvt, and other X11 applications).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/xresources.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
